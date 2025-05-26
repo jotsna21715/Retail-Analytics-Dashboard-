@@ -3,5 +3,5 @@ uvicorn
 pandas
 scikit-learn
 faker
-psycopg2
+psycopg2-binary
 requests
